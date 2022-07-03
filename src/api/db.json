@@ -1,0 +1,19 @@
+{
+  "estudiantes": [
+    {
+      "id": 3,
+      "name": "Feissar",
+      "university": "Catolica"
+    },
+    {
+      "id": 4,
+      "name": "Dassyn",
+      "university": "U de Manta"
+    },
+    {
+      "name": "Fabricio",
+      "university": "ULEAM",
+      "id": 1655405456180
+    }
+  ]
+}
